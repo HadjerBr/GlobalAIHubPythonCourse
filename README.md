@@ -1,7 +1,7 @@
 # GlobalAIHubPythonCourse
 ![](img/newlogo.png)
 
-**Course Date:** DD.MM.YYYY  
+**Course Date:** 05.04.2021 
 **Name:** Hadjer  
 **Surname:** Brioua  
 **Email:** hadjerbrioua@gmail.com  
