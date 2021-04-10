@@ -16,13 +16,3 @@ print("\n\nAll the students' marks and passing grades:\n", students)
 
 studentsByPassingGrades.sort(key=lambda x: x.get('passing grade'), reverse=True)
 print('\n\nAll the students from the highest passing grade to the lowest: \n', studentsByPassingGrades, end=' ')
-
-
-
-
-
-
-
-
-
-
