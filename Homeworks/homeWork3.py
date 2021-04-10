@@ -10,7 +10,7 @@ try:
         project = float(info[2])
         final = float(info[3])
 
-    #print("midterm, project and final grades should be numbers")
+    
 
         student = {"name": name, "midterm": midterm, "project": project, "final": final}
         print("This student's information:\n ", student)
