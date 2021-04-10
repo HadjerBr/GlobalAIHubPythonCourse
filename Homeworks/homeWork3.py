@@ -1,7 +1,7 @@
 students = []
 studentsByPassingGrades = []
 try:
-    for i in range(2):
+    for i in range(5):
         info = input("\n\nEnter the student number:" + str(i+1) + "'s name, midterm grade, project grade and final grade with blanks between them: ").split()
 
 
